@@ -1,0 +1,12 @@
+REQUIREMENT:
+
+- Movies.Data
+Ms Visual Studio 2022 community edition
+Microsoft.EntityFrameworkCore.Tools version 7.0.11
+Microsoft.EntityFrameworkCore.Abstractions version 7.0.11
+MySql.EntityFrameworkCore version 7.0.5
+
+- MoviesApp.Api
+Microsoft.AspNetCore.OpenApi version 7.0.16
+Microsoft.EntityFrameworkCore.Design version 6.5.0
+Swashbuckle.AspNetCore version 6.5.0
